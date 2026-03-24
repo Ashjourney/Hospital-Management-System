@@ -25,4 +25,5 @@ Web-based Hospital Management System for managing patients, doctors, and appoint
 - Improves hospital efficiency
 
 ## Developed By
-Asrritha | SARS Next Solution
+Asrritha Rudrani
+  -SARS Next Solution
