@@ -14,7 +14,8 @@ Web-based Hospital Management System for managing patients, doctors, and appoint
 - Pandas
 
 ## Screenshots
-(Add images here)
+<img width="930" height="395" alt="image" src="https://github.com/user-attachments/assets/7671b84b-7935-44fa-a6c3-bf3b4a5e74ed" />
+
 
 ## Business Impact
 - Reduces manual work
